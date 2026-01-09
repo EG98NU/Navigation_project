@@ -1,4 +1,8 @@
-STEPS TO EXECUTE THE PROJECT
+# Navigation project
+Here you can find the code I wrote to develope the project explained carefully in the report.
+
+## Execution steps
+
 1) Run 'traj_gen.m' to generate the trajectory and the true values of acceleration, velocity and angular velocity in navigation frame and position.
 
 2) Run 'init_sim.m' to generate all the parameters necessary for the simulation execution.
